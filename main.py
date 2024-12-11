@@ -9,7 +9,7 @@ import tempfile
 
 # Configuración de la página
 st.set_page_config(
-    page_title="Clasificador de Imágenes",
+    page_title="Prediccion Variedad Papas",
     page_icon="📸",
     layout="centered"
 )
